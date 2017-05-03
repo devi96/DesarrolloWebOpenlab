@@ -1,9 +1,14 @@
 body{
     background-image:url("fondo.jpg");
     background-color:rgb(10,20,70);
+    color:white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 120%;
 }
 #contenedor{
     padding: 30px;
+    background-image:url("fondo2.jpg");
     background-color:rgb(60,160,100);
     overflow:hidden;
 	width: 1200px;
