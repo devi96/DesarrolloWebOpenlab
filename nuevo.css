@@ -1,0 +1,54 @@
+body{
+    background-image:url("fondo.jpg");
+    background-color:rgb(10,20,70);
+}
+#contenedor{
+    padding: 30px;
+    background-color:rgb(60,160,100);
+    overflow:hidden;
+	width: 1200px;
+	margin:auto;
+}
+.parrafos_3{
+	float: left;
+	width: 50%;
+}
+.filas{
+	float: left;
+	width: 100%;	
+	margin-bottom: 10px;
+}
+.parrafos_1{
+	float: left;
+}
+#fila1_p1{
+	width: 30%;
+}
+#fila1_p2{
+	width: 70%;
+}
+#fila1_p2{
+	font-size: 25px;
+}
+.imagen_100{
+    width: 100%;
+}
+#fila1_p2 p{
+	padding-left: 20px;
+}
+p{
+    	text-align: justify;
+}
+
+#fila3-p1 p{
+	padding-right: 20px;
+}
+
+#fila3-p2 p{
+	padding-left: 20px;
+}
+
+/*
+.contenedores{p{
+    background-color: green ;
+}
